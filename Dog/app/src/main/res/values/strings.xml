@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Breeds Of Dogs</string>
+    <string-array name="breeds_Name">
+
+        <item>Boxer</item>
+        <item>Rottweiler</item>
+        <item>German Shepherd</item>
+        <item>Golden Retriver</item>
+        <item>Labrador Retriver</item>
+        <item>Doberman</item>
+        <item>Bull Mastif</item>
+        <item>Siberian Husky</item>
+        <item>Leonberg</item>
+        <item>Flat Coated Retriver</item>
+    </string-array>
+</resources>
